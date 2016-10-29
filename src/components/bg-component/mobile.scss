@@ -1,0 +1,17 @@
+& {
+    width: 640px;
+    height: 1138px;
+    // background-image: linear-gradient(to top, #000 0%, #ff6a3a 100%);
+    opacity: .5;
+    background-image: url('../images/bg-component/background-image.png');
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-image: url('../images/bg-component/background-image.png');
+    }
+}
