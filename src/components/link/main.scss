@@ -1,0 +1,6 @@
+.link {
+    @import '../../theme/mq';
+    @import '../../theme/functions';
+    @import 'variables';
+    @import 'mediaQueries/main';
+}
