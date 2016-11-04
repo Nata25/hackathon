@@ -1,3 +1,13 @@
-& {
+@import 'mobile';
 
+& {
+    margin-top: 20px;
+
+    &.left {
+        margin-left: 35%;
+    }
+
+    &.right {
+        margin-right: 35%;
+    }
 }

@@ -1,3 +1,7 @@
-& {
+@import 'mobile';
 
+& {
+    // background-image: url('../images/bg-component/background-image-wide.png');
+    background: url('../images/bg-component/background-image-wide.png'), linear-gradient(to top, #000 0%, #ff6a3a 100%);
+    background-size: cover;
 }
