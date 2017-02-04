@@ -1,6 +1,6 @@
 # Sample Gulp Project 
 
-Responsive web page. 5 screen sizes based on 3 templates.
+Responsive web page. 5 screen sizes based on 3 design templates.
 
 Component-based approach. 
 
