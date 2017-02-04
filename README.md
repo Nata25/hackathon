@@ -8,3 +8,5 @@ Yeoman project/component generators by [Andriy Mulyk](https://github.com/neomuli
 
 - [generator-neomulik-scss-component](https://www.npmjs.com/package/generator-neomulik-scss-component)
 - [generator-neomulik-scss-project](https://www.npmjs.com/package/generator-neomulik-scss-project)
+
+[Open on .github.io](https://nata25.github.io/hackathon/).
